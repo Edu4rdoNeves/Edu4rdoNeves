@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1> 
  Eduardo Neves
@@ -56,7 +56,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu4rdoNeves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu4rdoNeves&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
-
+  <br /><br />
 <p align="center">
   <a href="https://github.com/Edu4rdoNeves">
     <img
@@ -66,6 +66,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
   </a>
   </a>
 </p>
+  <br /><br />
 
 <div align="center" style="display: inline_block" >
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
@@ -76,8 +77,9 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
- 
+<br /><br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />  <br /><br />
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   <br /><br />
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Edu4rdoNeves&theme=tokyonight&hide_border=false)
